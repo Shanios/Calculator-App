@@ -26,5 +26,17 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 ---
 
 ## 📂 Folder Structure
+Calculator-App/
+├── index.html
+├── calculator.css
+└── calculator.js
+ Make sure `index.html` is the homepage for GitHub Pages to work correctly.
 
+---
 
+## 🛠️ How to Run Locally
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Shanios/Calculator-App.git
+   cd Calculator-App
